@@ -1,0 +1,72 @@
+html{
+
+  
+  color:black;
+  border-radius: 5px;
+  font-family: "Varela Round";
+}
+h1{
+  font-size: 50px;
+}
+body{
+ background-image: -webkit-linear-gradient(aqua,yellow,rgb(0, 255, 136),aqua);
+}
+img{
+  padding: 40px;
+        width: 200px;
+        height: 200px;
+
+        background-size: cover;
+        display: block;
+        border-radius: 200px;
+}
+
+center{
+  
+  color:white;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  background-color: #1B1C1D;
+  border-radius: 10px;
+}
+.fis{
+  
+  font-size: 20px;
+  padding-right: 250px;
+  padding-left: 250px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  
+}
+section{
+ 
+    
+    border-radius: 10px;
+}
+.f{
+ 
+  color:aqua;
+  font-size: 25px;
+    
+    border-radius: 5px;
+    background-color: #1B1C1D;
+}
+
+footer{
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: #1B1C1D;
+  border-radius: 5px;
+  font-size: 10PX;
+}
+.skillbar
+{
+  display: flexbox;
+  contain: paint;
+}
+.social{
+  border-image-outset: 50px
+  ;
+  border-color: brown;
+}
