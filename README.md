@@ -1,2 +1,2 @@
 # PORTFOLIOSITE
-MY FIRST PORFOLIO WEBSITE
+Create your own simple portfolio website
